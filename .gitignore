@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Indigo Card Game/task/build/
+/Indigo Card Game/task/out/
+/Indigo Card Game/task/out/production/classes/
+/Topics/Data class/copy() usage/out/
+/Topics/Data class/copy() usage/out/production/classes/
+/Topics/Null safety/Elvis throwing exceptions/out/
+/Topics/Null safety/Elvis throwing exceptions/out/production/classes/
+/Topics/Null safety/Safe round/out/
+/Topics/Null safety/Safe round/out/production/classes/

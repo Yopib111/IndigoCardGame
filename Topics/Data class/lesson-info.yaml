@@ -1,0 +1,8 @@
+content:
+- Theory
+- Not overridable
+- Illegal to override
+- Allowance for constructors
+- Room mystery
+- copy() usage
+- toString() modification
