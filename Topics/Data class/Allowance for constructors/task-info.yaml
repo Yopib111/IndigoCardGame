@@ -1,10 +1,5 @@
 type: choice
-is_multiple_choice: true
-options:
-- text: The primary constructor is not required to have default values for the parameters.
-- text: It's prohibited to create more than one constructor for a data class.
-- text: Parameters in the primary constructor might be both val and var.
-- text: The primary constructor of a data class may have zero parameters.
+is_multiple_choice: false
 files:
 - name: src/Main.kt
   visible: true

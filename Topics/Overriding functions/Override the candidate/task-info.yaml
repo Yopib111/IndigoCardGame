@@ -1,10 +1,5 @@
 type: choice
-is_multiple_choice: true
-options:
-- text: getWaterTax()
-- text: getTax()
-- text: getColorInfo()
-- text: getFullInfo()
+is_multiple_choice: false
 files:
 - name: src/Main.kt
   visible: true

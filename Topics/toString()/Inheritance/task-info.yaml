@@ -1,9 +1,5 @@
 type: choice
 is_multiple_choice: false
-options:
-- text: "By default, as if it hasn't been overridden"
-- text: By definition in parent class
-- text: A compilation error will occur
 files:
 - name: src/Main.kt
   visible: true

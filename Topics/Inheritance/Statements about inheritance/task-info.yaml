@@ -1,11 +1,5 @@
 type: choice
-is_multiple_choice: true
-options:
-- text: "If we create a function for a parent class, we can't use this function for\
-    \ both parent and child classes "
-- text: An <code>open</code> modifier allows to inherit from a class
-- text: A child class can be only an open one
-- text: Kotlin supports multi-inheritance
+is_multiple_choice: false
 files:
 - name: src/Main.kt
   visible: true

@@ -1,10 +1,5 @@
 type: choice
 is_multiple_choice: false
-options:
-- text: "cost=10, name=Espresso"
-- text: "cost=10, name=Drink"
-- text: "cost=10, name="
-- text: "cost=, name=Espresso"
 files:
 - name: src/Main.kt
   visible: true

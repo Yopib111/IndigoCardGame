@@ -1,10 +1,5 @@
 type: choice
-is_multiple_choice: true
-options:
-- text: hashCode()
-- text: equals()
-- text: copy()
-- text: toString()
+is_multiple_choice: false
 files:
 - name: src/Main.kt
   visible: true

@@ -1,10 +1,5 @@
 type: choice
 is_multiple_choice: false
-options:
-- text: It may produce a NullPointerException.
-- text: It has an additional check which will decrease the performance of a program.
-- text: It will omit the thrown exception.
-- text: It will return <code>null</code> in some cases.
 files:
 - name: src/Main.kt
   visible: true
